@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StudyPlanner</string>
+    <string name="title_activity_list_events">ListEventsActivity</string>
+    <string name="title_activity_event_list_dialog">EventListDialog</string>
+</resources>
